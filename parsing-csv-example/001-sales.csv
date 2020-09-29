@@ -1,0 +1,4 @@
+gateway,transaction_at,gross_cents,fee_cents,net_cents,email,product
+stripe,2020-09-29 01:10,5900,200,5700,hello@example.com,bsawf
+stripe,2020-09-29 05:26,4900,172,4728,zero@cool.com,docker
+stripe,2020-08-29 11:17,5900,200,5700,unix@pipes.com,bsawf
