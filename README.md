@@ -3,6 +3,10 @@
 Reference notes for the *Creating a Command Line Driven Development
 Environment* talk.
 
+Here's a direct link to [download the
+slides](https://github.com/nickjj/nyhackr-cli-dev-env/raw/master/nyhackr-cli-dev-env.pdf)
+and the video will be added as soon as it's been provided to me.
+
 - [Nick's Sites](#nicks-sites)
 - [Parsing Data on the Command Line](#parsing-data-on-the-command-line)
 - [Terminal](#terminal)
