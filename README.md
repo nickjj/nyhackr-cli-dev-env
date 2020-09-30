@@ -5,7 +5,7 @@ Environment* talk.
 
 Here's a direct link to [download the
 slides](https://github.com/nickjj/nyhackr-cli-dev-env/raw/master/nyhackr-cli-dev-env.pdf)
-and the video is available to [watch on
+and the [video is available on
 YouTube](https://www.youtube.com/watch?v=-eASvILZj6w). Thanks for having me
 [nyhackr](https://nyhackr.org/)!
 
