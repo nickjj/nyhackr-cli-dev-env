@@ -5,7 +5,9 @@ Environment* talk.
 
 Here's a direct link to [download the
 slides](https://github.com/nickjj/nyhackr-cli-dev-env/raw/master/nyhackr-cli-dev-env.pdf)
-and the video will be added as soon as it's been provided to me.
+and the video is available to [watch on
+YouTube](https://www.youtube.com/watch?v=-eASvILZj6w). Thanks for having me
+[nyhackr](https://nyhackr.org/)!
 
 - [Nick's Sites](#nicks-sites)
 - [Parsing Data on the Command Line](#parsing-data-on-the-command-line)
