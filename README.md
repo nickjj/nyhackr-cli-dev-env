@@ -133,3 +133,7 @@ use](https://nickjanetakis.com/blog/the-tools-i-use) on Windows in text form.
 
 If you don't want to use symlinks, there are dedicated tools such as
 <https://yadm.io/> and many others.
+
+Also, check out the [XDG Base Directory
+Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
+to learn more about where user specific files should go.
