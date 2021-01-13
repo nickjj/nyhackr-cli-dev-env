@@ -10,10 +10,10 @@ slides](https://github.com/nickjj/nyhackr-cli-dev-env/raw/master/nyhackr-cli-dev
 
 - The [nyhackr](https://nyhackr.org/) video is [available on
   YouTube](https://www.youtube.com/watch?v=-eASvILZj6w&t=494s) (recorded on
-  Sep.  29th 2020)
+  Sep. 29th 2020)
 - The [Data Umbrella](https://www.dataumbrella.org/) video is [available on
-  YouTube](https://www.youtube.com/watch?v=y4fYxmE0HZM&t=435s) (record on Jan.
-  12th 2021)
+  YouTube](https://www.youtube.com/watch?v=y4fYxmE0HZM&t=435s) (recorded on
+  Jan. 12th 2021)
 
 Thanks again for having me!
 
