@@ -4,10 +4,19 @@ Reference notes for the *Creating a Command Line Driven Development
 Environment* talk.
 
 Here's a direct link to [download the
-slides](https://github.com/nickjj/nyhackr-cli-dev-env/raw/master/nyhackr-cli-dev-env.pdf)
-and the [video is available on
-YouTube](https://www.youtube.com/watch?v=-eASvILZj6w). Thanks for having me
-[nyhackr](https://nyhackr.org/)!
+slides](https://github.com/nickjj/nyhackr-cli-dev-env/raw/master/nyhackr-cli-dev-env.pdf).
+
+#### This talk was given twice for 2 different meetups, here's the videos:
+
+- The [nyhackr](https://nyhackr.org/) video is [available on
+  YouTube](https://www.youtube.com/watch?v=-eASvILZj6w) (recorded on Sep.
+  29th 2020)
+- The [Data Umbrella](https://www.dataumbrella.org/) video is [available on
+  YouTube](https://www.youtube.com/watch?v=y4fYxmE0HZM) (record on Jan. 12th 2021)
+
+Thanks again for having me!
+
+### Table of Contents
 
 - [Nick's Sites](#nicks-sites)
 - [Parsing Data on the Command Line](#parsing-data-on-the-command-line)
